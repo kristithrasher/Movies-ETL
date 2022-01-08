@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 # add config.py to my .gitignore so password wont pass to repository
 config.py
 # identify the two large csv file to .gitignore
 movies_metadata.csv
 ratings.csv
 
+=======
+# ignore config.py
+config.py
+>>>>>>> ca5f48ec30af50991f5115a05cb3536b95760d3e
