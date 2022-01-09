@@ -11,12 +11,6 @@ o	wiki_movies_df
 o	kaggle_metadata
 o	ratings 
 
-![Kaggle Metadata Dataframe](https://user-images.githubusercontent.com/94208810/148690590-321fed83-ec1f-429a-be0d-15a1669e907c.png)
-![Ratings DataFrame](https://user-images.githubusercontent.com/94208810/148690591-c3d3741e-f44b-4484-8e0c-e6459db0dc10.png)
-![Wiki movies Dataframe](https://user-images.githubusercontent.com/94208810/148690592-524a5ec8-0eae-413a-a72c-feee7192b2a2.png)
-
-
-
 ### Extract ad Transform the Wikipedia Data
 -	Using Python, Pandas and ETL process and code refactoring, we extracted and transformed Wikipedia data and merged it with the Kaggle metadata. Used the Try and Except block to catch errors 
 -	Clean and Filtered data with list comprehensions
@@ -27,8 +21,6 @@ o	Insert the clean_movie function file
 -	Dropped null values and coverted data to string values
 -	Cleaned the box office data
 -	Cleaned the budget data, the release date, and the running time 
-![wiki_movies_colums_to_list](https://user-images.githubusercontent.com/94208810/148690646-8cc07f32-286e-405f-a736-47cde8fa6a0f.png)
-
 
 ### Extract and Transform the Kaggle Data
 -	Using Python, Pandas and ETL process and code refactoring, we extracted and transformed the Kaggle metadata and MovieLens rating data, then converted it into separate DataFrames. 
