@@ -31,7 +31,7 @@ o	movies_df DataFrame
 	merged the Kaggle metadata DataFrame with the Wikipedia movies DatFrame
 o	movies_with_ratings_df 
 	Merged the MovieLens rating data DataFrame with the movies_df DataFrame 
-## Create the Movie Database 
+### Create the Movie Database 
 -	Used PostgreSQL
 
 ## Summary
